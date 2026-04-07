@@ -31,8 +31,9 @@ Danach sollte der Pico als serieller Port (COMx) auftauchen.
 ```powershell
 uv sync
 .\.venv\Scripts\Activate.ps1
-python -m ipykernel install --user --name raspypico --display-name "Python (raspypico)"
+
 ```
+Und acuh diese Umgebung im Notebook als Jupyter Kernel aktivieren
 
 `uv sync` installiert auch `mpremote` (wird im Notebook genutzt, um Code auf dem Pico auszufuehren).
 
