@@ -126,5 +126,11 @@ Type "help()" for more information.
 21.894816
 >>>
 
+## Pin Diagramm
+
+[https://circuitstate.com/wp-content/uploads/2022/12/Raspberry-Pi-Pico-Pinout-Diagram-r0.3-CIRCUITSTATE-Electronics-01.png](https://circuitstate.com/wp-content/uploads/2022/12/Raspberry-Pi-Pico-Pinout-Diagram-r0.3-CIRCUITSTATE-Electronics-01.png)
+
+Oder Internet Suche nach ` raspberry pico pin diagram official `
+
 '
 
