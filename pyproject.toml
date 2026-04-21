@@ -1,4 +1,4 @@
-[project]
+﻿[project]
 name = "raspypico-notebook"
 version = "0.1.0"
 description = "Minimal notebook setup for Raspberry Pi Pico + MicroPython"
@@ -6,7 +6,8 @@ requires-python = ">=3.11"
 dependencies = [
   "mpremote>=1.26",
   "ipykernel>=6.29",
-  "matplotlib>=3.9"
+  "matplotlib>=3.9",
+  "streamlit>=1.45"
 ]
 
 [tool.uv]
